@@ -1,4 +1,4 @@
-# ppwl1
+# dailynotes-project
 
 To install dependencies:
 
